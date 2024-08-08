@@ -1,0 +1,19 @@
+.background{
+    width: 100%;
+    position: relative;
+    height: 99vh;
+}
+#bg{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.wrappersignup{
+    position: absolute;
+    width: 90%;
+    height: 100%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    padding-left: 30%;   
+}
