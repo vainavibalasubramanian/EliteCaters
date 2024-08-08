@@ -8,24 +8,14 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import Box from '@mui/material/Box';
 import img1 from './Images/img1.jpg';
 import img2 from './Images/Lunch.jpg';
-import img3 from './Images/img3.jpg';
 import img4 from './Images/BreakFast.jpg';
 import img5 from './Images/Dinner.jpg';
 
-import img7 from './Images/img7.jpg';
-import img8 from './Images/img8.jpg';
 import img9 from './Images/pac1.avif';
 import img10 from './Images/pac2.jpg';
 import img11 from './Images/pac4.avif';
 import img12 from './Images/pac3.jpg';
 import img13 from './Images/pac5.jpg';
-import img14 from './Images/img14.jpeg';
-import img15 from './Images/img15.jpg';
-import img16 from './Images/img16.webp';
-import img17 from './Images/img17.jpg';
-import img18 from './Images/img18.jpg';
-import img19 from './Images/img19.jpg';
-import img20 from './Images/img20.jpg';
 
 import './Home.css';
 import {Link , useNavigate } from 'react-router-dom';
